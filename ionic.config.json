@@ -1,0 +1,8 @@
+{
+  "name": "IonicMovies",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
